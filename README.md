@@ -13,6 +13,8 @@
 
 *Claude Code · Cursor · Copilot · Windsurf · Any MCP client*
 
+[🇷🇺 Русская версия](README.ru.md)
+
 </div>
 
 ---
