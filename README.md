@@ -71,7 +71,7 @@ curl -fsSL https://flowlink.flow-masters.ru/downloads/flowlink-linux-amd64 \
   -o /usr/local/bin/flowlink && chmod +x /usr/local/bin/flowlink
 
 # 2. Register and get API key
-# Visit https://flowlink.flow-masters.ru/playground — free, no card required
+# Visit https://flowlink.flow-masters.ru/login — free, no card required
 
 # 3. Run agent
 flowlink agent --api-key YOUR_KEY --relay wss://flowlink.flow-masters.ru/ws
