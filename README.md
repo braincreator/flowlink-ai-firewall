@@ -5,7 +5,7 @@
 **Intercepts AI agent commands at runtime. Blocks shell injection, credential theft, data exfiltration.**
 
 [![Website](https://img.shields.io/badge/website-flowlink.flow--masters.ru-181717?style=flat&logo=github&logoColor=white)](https://flowlink.flow-masters.ru)
-[![Docs](https://img.shields.io/badge/docs-getting%20started-24292e?style=flat&logo=github&logoColor=white)](https://flowlink.flow-masters.ru/docs/getting-started)
+[![Docs](https://img.shields.io/badge/docs-GitHub%20Pages-24292e?style=flat&logo=github&logoColor=white)](https://braincreator.github.io/flowlink-ai-firewall/)
 [![Playground](https://img.shields.io/badge/playground-try%20it%20now-24292e?style=flat&logo=github&logoColor=white)](https://flowlink.flow-masters.ru/playground)
 [![Rust](https://img.shields.io/badge/built%20with-Rust-orange?logo=rust&logoColor=white)]()
 [![Platform](https://img.shields.io/badge/platform-Linux-blue?logo=linux&logoColor=white)]()
