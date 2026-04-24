@@ -7,9 +7,12 @@
 [![Website](https://img.shields.io/badge/website-flowlink.flow--masters.ru-181717?style=flat&logo=github&logoColor=white)](https://flowlink.flow-masters.ru)
 [![Docs](https://img.shields.io/badge/docs-getting%20started-24292e?style=flat&logo=github&logoColor=white)](https://flowlink.flow-masters.ru/docs/getting-started)
 [![Playground](https://img.shields.io/badge/playground-try%20it%20now-24292e?style=flat&logo=github&logoColor=white)](https://flowlink.flow-masters.ru/playground)
-[![Platform](https://img.shields.io/badge/platform-Linux-blue?logo=linux&logoColor=white)]()
 [![Rust](https://img.shields.io/badge/built%20with-Rust-orange?logo=rust&logoColor=white)]()
+[![Platform](https://img.shields.io/badge/platform-Linux-blue?logo=linux&logoColor=white)]()
 [![License](https://img.shields.io/badge/license-Source%20Available-green)](LICENSE)
+[![SAST](https://img.shields.io/badge/SAST-Semgrep-blue?logo=semgrep)](https://semgrep.dev)
+[![Audit](https://img.shields.io/badge/audit-cargo%20audit-green?logo=rust)](https://rustsec.org)
+[![Secrets](https://img.shields.io/badge/secrets-GitHub%20scanning-green?logo=github)]()
 
 *Claude Code · Cursor · Copilot · Windsurf · Any MCP client*
 
