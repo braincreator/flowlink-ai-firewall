@@ -12,7 +12,8 @@
 [![License](https://img.shields.io/badge/license-Source%20Available-green)](LICENSE)
 [![SAST](https://img.shields.io/badge/SAST-Semgrep-blue?logo=semgrep)](https://semgrep.dev)
 [![Audit](https://img.shields.io/badge/audit-cargo%20audit-green?logo=rust)](https://rustsec.org)
-[![Secrets](https://img.shields.io/badge/secrets-GitHub%20scanning-green?logo=github)]()
+[![Licenses](https://img.shields.io/badge/licenses-cargo%20deny-green?logo=rust)](https://embarkstudios.github.io/cargo-deny/)
+[![Dependabot](https://img.shields.io/github/dependabot/braincreator/flowlink?logo=dependabot)](https://github.com/braincreator/flowlink/security/dependabot)
 
 *Claude Code · Cursor · Copilot · Windsurf · Any MCP client*
 
